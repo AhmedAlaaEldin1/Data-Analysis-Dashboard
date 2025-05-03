@@ -39,6 +39,9 @@ This is a comprehensive sales analytics dashboard built using Power BI Desktop. 
 ![Dashboard Screenshot](https://github.com/AhmedAlaaEldin1/Data-Analysis-Dashboard/blob/main/Screenshot%202025-04-25%20155556.png)
 ---
 
+## DataSet
+(https://github.com/AhmedAlaaEldin1/Data-Analysis-Dashboard/blob/main/E-C-Project.pbix)
+
 ## 📥 How to Use
 
 1. Clone this repo
