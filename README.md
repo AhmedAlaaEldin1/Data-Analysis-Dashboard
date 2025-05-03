@@ -33,8 +33,10 @@ This is a comprehensive sales analytics dashboard built using Power BI Desktop. 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](./Screenshots/dashboard_overview.png)
-
+![Dashboard Screenshot](https://github.com/AhmedAlaaEldin1/Data-Analysis-Dashboard/blob/main/Screenshot%202025-04-25%20155408.png)
+![Dashboard Screenshot](https://github.com/AhmedAlaaEldin1/Data-Analysis-Dashboard/blob/main/Screenshot%202025-04-25%20155453.png)
+![Dashboard Screenshot](https://github.com/AhmedAlaaEldin1/Data-Analysis-Dashboard/blob/main/Screenshot%202025-04-25%20155518.png)
+![Dashboard Screenshot](https://github.com/AhmedAlaaEldin1/Data-Analysis-Dashboard/blob/main/Screenshot%202025-04-25%20155556.png)
 ---
 
 ## 📥 How to Use
